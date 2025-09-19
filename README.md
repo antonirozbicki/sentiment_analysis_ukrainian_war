@@ -63,6 +63,3 @@ Artifacts produced:
 - Confidence filtering (e.g., ≥ 0.75) for more reliable summaries.
 - Time-based trends with meaningful aggregation windows (weekly).
 - Optional: collection script (`tweepy`) + `.env` for X API token.
-
-## License
-MIT (or add your preferred license).
